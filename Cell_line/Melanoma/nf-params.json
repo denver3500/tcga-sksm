@@ -1,0 +1,6 @@
+{
+    "input": "\/media\/windows\/BIOINFORMATICS\/tcga-alexa\/Cell_line\/Melanoma\/sample_sheet.csv",
+    "outdir": "\/media\/windows\/BIOINFORMATICS\/tcga-alexa\/Cell_line\/Melanoma\/output",
+    "fasta": "\/media\/windows\/BIOINFORMATICS\/tcga-alexa\/Cell_line\/Melanoma\/genome\/Homo_sapiens.GRCh38.dna_sm.primary_assembly.fa.gz",
+    "gtf": "\/media\/windows\/BIOINFORMATICS\/tcga-alexa\/Cell_line\/Melanoma\/genome\/Homo_sapiens.GRCh38.115.gtf.gz"
+}

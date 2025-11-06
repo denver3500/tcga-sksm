@@ -2,3 +2,6 @@ raw_data
 TCGA-SKCM-Combined_logTPM_expression.csv
 TCGA-SKCM-Primary_logTPM_expression.csv
 TCGA-SKCM-Metastatic_logTPM_expression.csv
+*.fastq.gz
+Nextflow
+.nextflow

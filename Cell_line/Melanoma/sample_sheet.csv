@@ -1,0 +1,10 @@
+sample,fastq_1,fastq_2,strandedness
+SCR_exp1,E50_R1-SCR_exp1.fastq.gz,E50_R2-SCR_exp1.fastq.gz,auto
+SCR_exp2,E54_R1-SCR_exp2.fastq.gz,E54_R2-SCR_exp2.fastq.gz,auto
+SCR_exp3,E58_R1-SCR_exp3.fastq.gz,E58_R2-SCR_exp3.fastq.gz,auto
+SCR_exp4,F96_R1-SCR_exp4.fastq.gz,F96_R2-SCR_exp4.fastq.gz,auto
+GLS_KO_exp1,E52_R1-GLS_KO_exp1.fastq.gz,E52_R2-GLS_KO_exp1.fastq.gz,auto
+GLS_KO_exp2,E56_R1-GLS_KO_exp2.fastq.gz,E56_R2-GLS_KO_exp2.fastq.gz,auto
+GLS_KO_exp3,E60_R1-GLS_KO_exp3.fastq.gz,E60_R2-GLS_KO_exp3.fastq.gz,auto
+GLS_KO_exp4,F98_R1-GLS_KO_exp4.fastq.gz,F98_R2-GLS_KO_exp4.fastq.gz,auto
+
